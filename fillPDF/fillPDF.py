@@ -5,8 +5,10 @@ import sys
 
 sys.path.insert(0, os.getcwd())
 filename_prefix = "NVC"
-csv_file = "NVC.csv"
-pdf_file = "NVC.pdf"
+csv_file = "~/Documents/fillPDF/ReleaseForm.csv"
+pdf_file1 = "~/Documents/fillPDF/Medical_Release_for_Adults.pdf"
+pdf_file2 = "~/Documents/fillPDF/Release_and_Indemnification_Agreement_for_Domestic_Travel_for_Adults.pdf"
+pdf_file3 = "~/Documents/fillPDF/UT-Dallas-Responsibilities-of-Participants-Updated1.1.pdf"
 tmp_file = "tmp.fdf"
 output_folder = './output/'
 
